@@ -86,9 +86,10 @@ curl -X POST http://localhost:8000/upload \
 ```
 
 ## Screenshots
+<img width="1881" height="937" alt="image" src="https://github.com/user-attachments/assets/50f6efd1-cb1d-48c3-9b77-ff4f624aa856" />
 
-- Add upload screen screenshot here
-- Add parsed results screenshot here
+<img width="1859" height="940" alt="image" src="https://github.com/user-attachments/assets/6fc09802-4cbe-4245-b7da-4e9258f62b2e" />
+
 
 ## Known Limitations
 
